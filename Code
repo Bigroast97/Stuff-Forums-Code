@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Coming Soon</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 50px auto;
+      text-align: center;
+      color: #333;
+    }
+    h1 {
+      color: #0077cc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Coming Soon!</h1>
+  <p>A site where people can upload files and speak on forums.</p>
+
+</body>
+</html>
