@@ -1,25 +1,39 @@
+# Work in Progress Site
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Coming Soon</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 600px;
-      margin: 50px auto;
-      text-align: center;
-      color: #333;
-    }
-    h1 {
-      color: #0077cc;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work in Progress</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #ff6347;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+    </style>
 </head>
 <body>
-
-  <h1>Coming Soon!</h1>
-  <p>A site where people can upload files and speak on forums.</p>
-
+    <div class="container">
+        <h1>Work in Progress</h1>
+        <p>We are currently working on this site. Please check back later!</p>
+    </div>
 </body>
 </html>
+
